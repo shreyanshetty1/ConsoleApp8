@@ -11,6 +11,7 @@ namespace ConsoleApp8
             Console.WriteLine("Changes! 2");
             Console.WriteLine("From VS");
             Console.WriteLine("From VS 2");
+            Console.WriteLine("abcd");
             Console.ReadLine();
         }
     }
