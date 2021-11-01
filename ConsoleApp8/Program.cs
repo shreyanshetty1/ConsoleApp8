@@ -17,6 +17,7 @@ namespace ConsoleApp8
             Console.WriteLine("From VS 2");
             Console.WriteLine("From VS 2");
             Console.WriteLine("From VS 3");
+            Console.WriteLine("new branch");
 
             Console.WriteLine("abcd");
 
