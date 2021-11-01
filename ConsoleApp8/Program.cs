@@ -6,10 +6,11 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
             Console.WriteLine("Changes!");
             Console.WriteLine("Changes! 2");
-            Console.WriteLine("From VS");
+             Console.WriteLine("Hello World!");
+           
             Console.WriteLine("From VS 2");
             Console.ReadLine();
         }
