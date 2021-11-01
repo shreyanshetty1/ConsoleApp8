@@ -9,6 +9,7 @@ namespace ConsoleApp8
             Console.WriteLine("Hello World!");
             Console.WriteLine("Changes!");
             Console.WriteLine("From VS");
+            Console.WriteLine("From VS 2");
             Console.ReadLine();
         }
     }
